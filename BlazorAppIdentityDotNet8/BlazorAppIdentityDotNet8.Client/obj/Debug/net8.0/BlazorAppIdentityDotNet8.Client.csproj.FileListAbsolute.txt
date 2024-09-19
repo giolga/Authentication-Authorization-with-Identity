@@ -1036,3 +1036,4 @@ C:\Users\GioLGA\Desktop\dotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet
 C:\Users\GioLGA\Desktop\dotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8.Client\obj\Debug\net8.0\refint\BlazorAppIdentityDotNet8.Client.dll
 C:\Users\GioLGA\Desktop\dotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8.Client\obj\Debug\net8.0\BlazorAppIdentityDotNet8.Client.pdb
 C:\Users\GioLGA\Desktop\dotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8.Client\obj\Debug\net8.0\ref\BlazorAppIdentityDotNet8.Client.dll
+C:\Users\GioLGA\Desktop\dotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8\BlazorAppIdentityDotNet8.Client\obj\Debug\net8.0\BlazorAppIdentityDotNet8.Client.sourcelink.json

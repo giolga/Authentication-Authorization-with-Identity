@@ -2,7 +2,7 @@
 
 @using Microsoft.AspNetCore.Authorization
 
-@attribute [Authorize]
+@attribute [Authorize(Roles = "Admin")]
 @rendermode InteractiveAuto
 
 <PageTitle>Auth</PageTitle>
@@ -11,4 +11,8 @@
 
 <AuthorizeView>
     Hello @context.User.Identity?.Name!
+</AuthorizeView>
+
+<AuthorizeView Roles="Admin">
+    You are an admin!
 </AuthorizeView>
